@@ -1,1 +1,3 @@
-# ip-exp5
+1.	Write a javascript code to implement a basic calculator using Promises  that performs addition, subtraction, multiplication, and division using promises. The calculator should accept two numbers and an operation and return the result as a promise. In case of invalid operation ( wrong operator or divide by zero) let it reject with an error message
+2.	Creating a custom iterator for an array of numbers. The  iterator should produce squares of all numbers in the array.
+3.	Execute generator function that generates prime numbers using JavaScript generators. The generator should produce prime numbers up to a specified limit.
